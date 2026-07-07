@@ -1,2 +1,4 @@
 # Heart-Brain_Data_processing_material
-Materials and resources for dat processing, analysis, and methodological documentation within the Heart-Brain project of the University of Granada, Spain.
+This repository hosts data processing and analysis materials developed within the Heart-Brain project of the University of Granada, a randomized controlled trial focused on the relationship between exercise, cardiovascular health, and brain health in patients with coronary artery disease. The repository is intended to support transparent and reproducible research practices by centralizing scripts, processing workflows, documentation, and related resources generated during the project.
+
+Materials included here may cover different stages of the research workflow, from data preparation and processing to statistical analysis and methodological reporting. The content of this repository will evolve over time as new materials are developed and incorporated into the project.
